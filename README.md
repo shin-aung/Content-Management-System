@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=YSyGPt9f_dY
 
 Estimated Hours
 
-I spent around 10 to 12 hours on this practical. I try my best to display the best for the practical 1. I do not take much time in some parts but in some parts, I will have to look for or I will have to use other tool to get what I am looking for. Due to these facts, the time duration for the practical is 10 to 12 hours.
+I spent around 10 to 12 hours on this practical. I try my best to display the best for the practical 1. I do not take much time in some parts but in some parts, I will have to look for or I will have to use other tool to get what I am looking for. Due to these facts, the time duration for the practical is 10 to 12 hours. I have create the site for the laptop and tablets only. I have planned to improve in coming Practicals and Assignments.
 
 Content Insights
 
