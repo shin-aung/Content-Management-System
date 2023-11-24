@@ -3,12 +3,16 @@
 
 This week I was able to look through the W33 website which help to code some parts of the website. I use the Canva and the Microsoft PowerPoint for the logo and some of the pictures. I use google to find the picture of the locations and trips. I use infinityfree website to upload my html files. I download filezilla from filezilla-project.org to upload my html files on the infinityfree to get my website. I also look through the youtube how to upload using infinityfree website. The following are the site that I use this week for the practical. 
 
-https://www.w3schools.com
-https://www.canva.com
-https://www.google.com
-https://www.infinityfree.com
-https://filezilla-project.org
-https://www.youtube.com/watch?v=YSyGPt9f_dY
+w3schools: https://www.w3schools.com
+Canva: https://www.canva.com
+Google: https://www.google.com
+InfinityFree: https://www.infinityfree.com
+Download link of filezilla-project: https://filezilla-project.org
+Youtube video that help me upload my website: https://www.youtube.com/watch?v=YSyGPt9f_dY
+
+About My Website
+
+My website is a Travelling agency website. The name of my Travelling Agency Website is World Lavender Dream. Positioned as a prestigious travel company, World Lavender Dream specializes in creating customized travel schedules to meet the needs of each unique client. By incorporating virtual reality (VR) technology, the agency hopes to differentiate itself by giving clients the opportunity to preview their travels before finalizing reservations. Travelers can get help from World Lavender Dream with everything from airline and hotel reservations to car rentals and trip planning. Customer support is offered by the organization around-the-clock. The company offers assistance, trip insurance, and the choice to have a guide go with clients to guarantee their safety. One of the agency's specialties is offering clients a virtual reality tour of the destination so they can get a taste of what to expect before they go. World Lavender Dream combines customized experiences with technology to reimagine travel planning. The goal of the crowdfunding campaign is to raise money to carry out the idea. The emphasis is on the platform's ongoing improvement to satisfy changing traveler and industry demands.
 
 Estimated Hours
 
@@ -91,13 +95,6 @@ The utilisation of tools, tutorials, and resources available online points to a 
 Building a Portfolio:
 
 You've probably developed a portfolio showcasing your graphic design and web development work through your practical work. A portfolio is an effective way to show prospective employers what kind of skills you possess.
-
-About My Website
-
-My website is a Travelling agency website. The name of my Travelling Agency Website is World Lavender Dream. Positioned as a prestigious travel company, World Lavender Dream specializes in creating customized travel schedules to meet the needs of each unique client. By incorporating virtual reality (VR) technology, the agency hopes to differentiate itself by giving clients the opportunity to preview their travels before finalizing reservations. Travelers can get help from World Lavender Dream with everything from airline and hotel reservations to car rentals and trip planning. Customer support is offered by the organization around-the-clock. The company offers assistance, trip insurance, and the choice to have a guide go with clients to guarantee their safety. One of the agency's specialties is offering clients a virtual reality tour of the destination so they can get a taste of what to expect before they go. World Lavender Dream combines customized experiences with technology to reimagine travel planning. The goal of the crowdfunding campaign is to raise money to carry out the idea. The emphasis is on the platform's ongoing improvement to satisfy changing traveler and industry demands.
-
-
-
 
 
 In conclusion, my proposal presents a thorough strategy for starting a travel company that emphasizes safety, innovation, and customized experiences using virtual reality technology. A strategic approach to funding and sustainability is demonstrated by the business model and crowdfunding campaign.
