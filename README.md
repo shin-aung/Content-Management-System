@@ -1,101 +1,81 @@
-# Content-Management-System
-**#Learning Activities & Resources**
+Content-Management-System
 
-This week I was able to look through the W33 website which help to code some parts of the website. I use the Canva and the Microsoft PowerPoint for the logo and some of the pictures. I use google to find the picture of the locations and trips. I use infinityfree website to upload my html files. I download filezilla from filezilla-project.org to upload my html files on the infinityfree to get my website. I also look through the youtube how to upload using infinityfree website. The following are the site that I use this week for the practical. 
+#Learning Activities & Resources
 
-w3schools: https://www.w3schools.com
+This week, I delved into the W33 website, personally coding several sections. For the visual elements, I crafted the logo and images using Canva and Microsoft PowerPoint. Google aided in locating pictures of destinations and trips. To bring the site to life, I utilized the services of InfinityFree for web hosting and FileZilla, downloaded from filezilla-project.org, to upload my HTML files. YouTube tutorials, particularly one found at https://www.youtube.com/watch?v=YSyGPt9f_dY, proved instrumental in guiding me through the process. The following sites were integral to my practical work this week:
+
+W3Schools: https://www.w3schools.com
 Canva: https://www.canva.com
 Google: https://www.google.com
 InfinityFree: https://www.infinityfree.com
-Download link of filezilla-project: https://filezilla-project.org
-Youtube video that help me upload my website: https://www.youtube.com/watch?v=YSyGPt9f_dY
+FileZilla Download: https://filezilla-project.org
+Tutorial Video: https://www.youtube.com/watch?v=YSyGPt9f_dY
+About My Website
 
-**About My Website**
+I've created a travel agency website, aptly named World Lavender Dream. This venture positions itself as a high-end travel company, specializing in tailoring travel itineraries to individual client needs. Leveraging virtual reality (VR) technology, our unique selling point lies in providing clients with a preview of their travels before confirming reservations. World Lavender Dream assists travelers with everything from flight and hotel bookings to car rentals and itinerary planning. Our customer support operates 24/7, offering assistance, trip insurance, and the option to have a guide accompany clients for added safety. Notably, we provide clients with a virtual reality tour of their chosen destination, allowing them to anticipate and plan for their journey. By merging personalized experiences with technology, World Lavender Dream aims to revolutionize travel planning. Our crowdfunding campaign seeks to raise funds to bring this innovative concept to fruition, with a focus on continual platform enhancement to meet evolving traveler and industry demands.
 
-My website is a Travelling agency website. The name of my Travelling Agency Website is World Lavender Dream. Positioned as a prestigious travel company, World Lavender Dream specializes in creating customized travel schedules to meet the needs of each unique client. By incorporating virtual reality (VR) technology, the agency hopes to differentiate itself by giving clients the opportunity to preview their travels before finalizing reservations. Travelers can get help from World Lavender Dream with everything from airline and hotel reservations to car rentals and trip planning. Customer support is offered by the organization around-the-clock. The company offers assistance, trip insurance, and the choice to have a guide go with clients to guarantee their safety. One of the agency's specialties is offering clients a virtual reality tour of the destination so they can get a taste of what to expect before they go. World Lavender Dream combines customized experiences with technology to reimagine travel planning. The goal of the crowdfunding campaign is to raise money to carry out the idea. The emphasis is on the platform's ongoing improvement to satisfy changing traveler and industry demands.
+Estimated Hours
 
-**Estimated Hours**
+I dedicated approximately 10 to 12 hours to this practical endeavor. While some sections required less time, others demanded additional research or the utilization of alternative tools. Consequently, the total time invested ranged between 10 and 12 hours. I've optimized the site for laptops and tablets, with plans for further enhancements in future practicals and assignments.
 
-I spent around 10 to 12 hours on this practical. I try my best to display the best for the practical 1. I do not take much time in some parts but in some parts, I will have to look for or I will have to use other tool to get what I am looking for. Due to these facts, the time duration for the practical is 10 to 12 hours. I have create the site for the laptop and tablets only. I have planned to improve in coming Practicals and Assignments.
-
-**Content Insights**
+Content Insights
 
 HTML/CSS Website Development:
+I harnessed the resources of W3Schools (https://www.w3schools.com) for researching, learning, and implementing HTML and CSS for my website.
 
-You used W3Schools' (https://www.w3schools.com) resources to research, learn, and apply HTML and CSS for your website.
+Visual Design:
+Utilizing Microsoft PowerPoint and Canva (https://www.canva.com), I created the website's logo and selected images, showcasing a proficiency in graphic design tools.
 
-**Visual Design:**
+Search Images and Get Location Data:
+Google (https://www.google.com) facilitated the discovery of relevant images for destinations, highlighting my ability to utilize external resources for content enhancement.
 
-Your website's logo and a few images were created using Microsoft PowerPoint and Canva (https://www.canva.com). This implies investigating web development tools for graphic design.
+File Uploading and Web Hosting:
+InfinityFree (https://www.infinityfree.com) provided web hosting, while FileZilla (https://filezilla-project.org) facilitated the seamless upload of HTML files, indicating practical knowledge of file transfer and web hosting processes.
 
-**Search Images and Get Location Data:**
+Online Tutorial Learning:
+I relied on a YouTube video (https://www.youtube.com/watch?v=YSyGPt9f_dY) to learn the intricacies of using InfinityFree for file uploading, showcasing a proactive approach to learning through tutorial videos.
 
-The pictures of places and travels were found using Google (https://www.google.com), demonstrating the investigation and use of outside resources to improve the content of your website.
+Time Handling:
+A projected completion time of 10 to 12 hours underscores my understanding of the time commitment associated with web development tasks.
 
-**File uploading and web hosting:**
+Real-World Implementation:
+The practical experience gained through diverse tools and platforms reflects the application of theoretical knowledge through hands-on experience.
 
-The web hosting was provided by InfinityFree (https://www.infinityfree.com), and the HTML files were uploaded using FileZilla (https://filezilla-project.org). This indicates a practical understanding of file transfer and web hosting procedures.
+Solving Issues:
+Encountering challenges and subsequently finding solutions or employing alternative tools demonstrates adaptability and effective problem-solving in the realm of web development.
 
-**Online Tutorial Learning:**
+In summary, my insights cover a broad spectrum of topics, ranging from graphic design and web development to online research and real-world application. It's evident that I leveraged various online resources, including tutorials and tools, alongside hands-on learning experiences to build and host my website.
 
-The YouTube video (https://www.youtube.com/watch?v=YSyGPt9f_dYwas used to learn how to use InfinityFree for file uploading. This suggests a desire to learn via tutorial videos.
+Career/Employability/Learning Insights
 
-**Time Handling:**
+Skills for Web Development:
+My familiarity with HTML, CSS, and tools like FileZilla positions me with valuable web development knowledge, applicable to careers in web development and front-end development.
 
-You projected completing the practical in between ten and twelve hours. This implies that the time commitment needed for web development tasks is understood.
+Proficiency in Graphic Design:
+The use of Canva and Microsoft PowerPoint for logo and image creation indicates proficiency in graphic design, a valuable skill for jobs requiring web design or basic graphic design knowledge.
 
-**Real-World Implementation:**
+Being Inventive:
+Using Google to search for images and relevant content demonstrates creativity and resourcefulness in conducting research.
 
-The practical experience acquired by utilising various tools and platforms suggests that theoretical knowledge is applied and learned through hands-on experience.
+Web Hosting Background:
+Working with InfinityFree and FileZilla showcases practical experience in web hosting and file uploading, valuable for roles involving website deployment and management.
 
-**Solving Issues:**
+Studying Various Sources:
+My openness to learning from diverse sources, including W3Schools, Google, YouTube tutorials, and others, reflects a valuable quality in the ever-evolving field of technology.
 
-You spoke about running into problems and needing to find answers or use different tools. This demonstrates adaptability and problem-solving abilities in the context of web development.
+Time Handling:
+An understanding of time management is evident in the estimated completion time, essential for meeting deadlines and delivering high-quality work in a professional setting.
 
-To sum up, your insights encompass a wide range of topics related to graphic design, web development, online research, and real-world application. It's evident that you used a variety of online resources, including tutorials and tools, in addition to hands-on learning experiences to build and host your website.
+Flexibility and Issue-Solving:
+Adaptability and effective issue-solving, showcased during challenges, are highly desirable attributes in any workplace.
 
-**Career/Employability/Learning Insights**
+Practical Experience:
+Engaging in real-world tasks, such as creating a website, provides practical experience, bridging theoretical concepts with real-world applications.
 
-**Skills for Web Development:**
+Self-Guided Education:
+The use of tools, tutorials, and online resources points to a self-directed learning approach, a crucial skill in the dynamic workplace.
 
-Your familiarity with HTML, CSS, and the use of programmes such as FileZilla has equipped you with useful web development knowledge. Careers in web development, front-end development, or similar fields can benefit from this.
+Building a Portfolio:
+Through practical work, I've likely developed a portfolio showcasing graphic design and web development skills, an effective tool for showcasing abilities to prospective employers.
 
-**Proficiency in Graphic Design:**
-
-An understanding of graphic design software is demonstrated by the use of Canva and Microsoft PowerPoint to create a logo and images. This is a useful skill for jobs requiring web design or basic graphic design knowledge.
-
-**Being inventive:**
-
-Using Google to search for images and discover pertinent content shows ingenuity. Using the resources at one's disposal to conduct research is a valuable skill in many fields of endeavour.
-
-**Web hosting background:**
-
-Utilising FileZilla for file uploads and working with InfinityFree both demonstrate real-world platform web hosting experience. Anyone thinking about a career in website deployment and management will find this useful.
-
-**Studying Various Sources:**
-
-Your willingness to learn from a variety of sources is indicated by the way you use W3Schools, Google, YouTube tutorials, and other resources. Being receptive to various educational resources is an advantageous quality in the rapidly developing field of technology.
-
-**Time Handling:**
-
-An understanding of time management is demonstrated by the estimate of 10 to 12 hours needed for the practical project. In the workplace, being able to manage your time well is essential to meeting deadlines and producing high-quality work.
-
-**Flexibility and Issue-Solving:**
-
-Adaptability and problem-solving abilities are demonstrated when faced with obstacles and looking for answers or substitute tools. These are highly desirable attributes in any workplace.
-
-**Practical Experience:**
-
-Taking on real-world tasks, like creating a website, gives you practical experience. This practical knowledge comes in handy when applying theoretical concepts to real-world situations and during job interviews.
-
-**Self-Guided Education:**
-
-The utilisation of tools, tutorials, and resources available online points to a degree of self-directed learning. In the fast-paced workplace of today, having the initiative to learn and explore on your own is a crucial skill.
-
-**Building a Portfolio:**
-
-You've probably developed a portfolio showcasing your graphic design and web development work through your practical work. A portfolio is an effective way to show prospective employers what kind of skills you possess.
-
-
-In conclusion, my proposal presents a thorough strategy for starting a travel company that emphasizes safety, innovation, and customized experiences using virtual reality technology. A strategic approach to funding and sustainability is demonstrated by the business model and crowdfunding campaign.
-
+In conclusion, my approach outlines a comprehensive strategy for launching a travel company focused on safety, innovation, and personalized experiences through virtual reality technology. The proposed business model and crowdfunding campaign reflect a strategic perspective on funding and sustainability.
